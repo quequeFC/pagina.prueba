@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Micro+5&display=swap');
+
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --mc_verde: #08c408;
+    --mc_cafe: #7a461b;
+    --mc_aqua: #1919ec;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 80px;
+    letter-spacing: 5px;
+    border: solid 3px #b16324;
+    background-color: #ce8f5b;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+body {
+    background-image: url(../img/223a1521-60cf-4a82-b708-c5f2fdfcf163.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
+}
+
+
+img {
+    height: 300px;
+    width: 500px;
+}
+
+p {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 20px;
+}
+
+div {
+    text-align: center;
+    width: fit-content;
+    margin: 5px;
+    border: solid 3px #b16324;
+    padding: 3px;
+    width: 500px;
+    height: 430px;
+    background-color: #dda678;
+    border-radius: 4px;
+}
+
+h2 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    border: solid 3px #b16324;
+    background-color: #db9d6b;
+    width: fit-content;
+}
+
+
+#t {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.link  {
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: 30px;
+    color: black;
+    float: right;
+    border: solid 3px #b16324;
+    background-color: #a5734a;
+    border-radius: 4px;
+}
+
+a {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    display: block;
+}
+
+h3 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    border: solid 3px #b16324;
+    background-color: #daa071;
+    width: fit-content;
+    height: fit-content;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    float:right ;
+}
+
+h4 {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    border: solid 3px #b16324;
+    background-color: #d4a176;
+    width: fit-content; 
+}
+
+.versiones {
+    text-align: center;
+    height: fit-content;
+}
+
+.iniciar {
+    text-align: center;
+    height: fit-content;
+}
+
+.jersey-10-regular>p {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+@media (max-width: 600px) {
+    .link {
+        color: red;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .link {
+        color: red;
+    }
+} 
