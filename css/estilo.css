@@ -135,6 +135,7 @@ h3 {
 }
 
 .nav {
+    font-size:40px;
     display: flex;
     flex-direction: column;
     width: fit-content;
@@ -238,6 +239,7 @@ svg{
         padding-right: 70px;
     }
 }
+
 
 
 
