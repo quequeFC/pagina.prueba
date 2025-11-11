@@ -83,7 +83,6 @@ h2 {
     border: solid 3px #b16324;
     background-color: #db9d6b;
     width: fit-content;
-    padding-right:200px ; 
 }
 
 
@@ -108,6 +107,10 @@ h2 {
     border: solid 3px #b16324;
     background-color: #a5734a;
     border-radius: 4px;
+}
+
+.svg{
+    font-size: 30px;
 }
 
 a {
@@ -236,6 +239,7 @@ svg{
         padding-right: 70px;
     }
 }
+
 
 
 
