@@ -79,6 +79,7 @@ h2 {
     font-weight: 400;
     font-style: normal;
     text-align: center;
+    aling-item: center;
     font-size: 40px;
     border: solid 3px #b16324;
     background-color: #db9d6b;
@@ -239,6 +240,7 @@ svg{
         padding-right: 70px;
     }
 }
+
 
 
 
