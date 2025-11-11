@@ -112,7 +112,7 @@ h2 {
 
 
 a {
-    font-size: 40px;
+    font-size: 4px;
     font-family: "Jersey 10", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -135,7 +135,6 @@ h3 {
 }
 
 .nav {
-    font-size:4px;
     display: flex;
     flex-direction: column;
     width: fit-content;
@@ -239,6 +238,7 @@ svg{
         padding-right: 70px;
     }
 }
+
 
 
 
