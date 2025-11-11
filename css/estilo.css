@@ -110,6 +110,10 @@ h2 {
     border-radius: 4px;
 }
 
+.svg{
+    font-size: 30px;
+}
+
 
 a {
     font-size: 4px;
@@ -238,6 +242,7 @@ svg{
         padding-right: 70px;
     }
 }
+
 
 
 
